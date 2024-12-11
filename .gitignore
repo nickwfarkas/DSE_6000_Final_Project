@@ -1,1 +1,3 @@
 .venv/
+*.csv
+venv_doc.txt

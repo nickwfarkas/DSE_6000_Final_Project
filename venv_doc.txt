@@ -10,3 +10,5 @@ which python
 To deactivate a virtual environment
 
 deactivate
+
+control + C to stop
